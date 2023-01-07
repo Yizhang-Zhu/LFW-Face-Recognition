@@ -1,0 +1,2 @@
+The LFW dataset is too large, so it can not be uploaded to github.
+LFW official web: http://vis-www.cs.umass.edu/lfw/
